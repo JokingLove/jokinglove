@@ -10,7 +10,7 @@
 
  # <a href="https://jokinglove.com">JOKING</a> :smiley:
 
-<a href="https://github.com/jokinglove"><i class="icongithub4"></i></a>
+<a href="https://github.com/jokinglove"><i class="iconfont icon-icongithub4"></i></a>
 
 <!--
 **JokingLove/jokinglove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
