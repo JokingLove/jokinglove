@@ -1,6 +1,8 @@
 ### 🌱 I’m currently working on ...
 [![JOKING's github stats](https://github-readme-stats.vercel.app/api?username=jokinglove&show_icons=true&theme=shades-of-purple&count_private=true&include_all_commits=true&show_owner=true&card_width=100)](https://github.com/jokinglove)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=compact)](https://github.com/jokinglove)
+
 <!--
 **JokingLove/jokinglove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
