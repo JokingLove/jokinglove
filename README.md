@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&theme=cobalt&show_icons=true&card_width=500)](https://github.com/jokinglove)
 
 
-<link rel="stylesheet" href="//at.alicdn.com/t/font_1280381_9etuyty0h8.css">
+<link rel="stylesheet" href="http://at.alicdn.com/t/font_1280381_9etuyty0h8.css">
 
  # <a href="https://jokinglove.com">JOKING</a> :smiley:
 
