@@ -26,10 +26,10 @@ Java | Web Development | Spring Cloud | JavaScript | Python | MySQL | MongoDB | 
 ## About :sunglasses:
 I'm hello worlding...
 
+<!-- &theme=shades-of-purple   &theme=cobalt-->
+[![JOKING's github stats](https://github-readme-stats.vercel.app/api?username=jokinglove&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&card_width=100)]()
 
-[![JOKING's github stats](https://github-readme-stats.vercel.app/api?username=jokinglove&show_icons=true&theme=shades-of-purple&count_private=true&include_all_commits=true&show_owner=true&card_width=100)]()
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&hide=['blog']&theme=cobalt&show_icons=true&card_width=500)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&card_width=500)]()
 
 ### Recently I'm coding in...
 <!-- 
