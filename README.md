@@ -1,5 +1,5 @@
 <!-- <div align="center"> -->
-# Hey 👋, I'm JOKING <a href="https://jokinglove.com/"> <img alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" /> </a>
+# Hey 👋, I'm JOKING <a  target="_blank" href="https://jokinglove.com/"> <img alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" /> </a>
  
 
 <a target="_blank" href="https://github.com/jokinglove">
