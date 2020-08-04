@@ -1,9 +1,6 @@
 <!-- <div align="center"> -->
-<h1>Hey 👋, I'm JOKING 
-  <a>
-  <img align="left" alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" />
-  </a>
- </h1>
+# Hey 👋, I'm JOKING <a> <img align="left" alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" /> </a>
+ 
 
 <a href="https://github.com/jokinglove">
     <img align="left" alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/github4.svg" />
