@@ -1,5 +1,5 @@
 <!-- <div align="center"> -->
-# Hey 👋, I'm JOKING <a> <img alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" /> </a>
+# Hey 👋, I'm JOKING <a href="https://jokinglove.com/"> <img alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" /> </a>
  
 
 <a href="https://github.com/jokinglove">
@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://gitee.com/jokinglove">
-    <img align="left" alt="JOKING's Gitee" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/gitee.svg" />
+    <img align="left" alt="JOKING's Gitee" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/gitee-circle-light.svg" />
 </a>
 
 <a href="https://weibo.com/3287764562/profile?topnav=1&wvr=6&is_all=1">
