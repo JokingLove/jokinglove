@@ -27,23 +27,16 @@ Java | Web Development | Spring Cloud | JavaScript | Python | MySQL | MongoDB | 
 I'm hello worlding...
 
 ## Most Used Languages
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true&hide_title=true)](#)  -->
-<a href="#">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true&hide_title=true)](#) 
+<!-- <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true&hide_title=true" />
-</a>
+</a> -->
 
 <!-- &theme=shades-of-purple   &theme=cobalt-->
 ## JOKING's Github Stats
-<!-- [![JOKING's github stats](https://github-readme-stats.vercel.app/api?username=jokinglove&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&hide_border=true&hide_title=true)](#) -->
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jokinglove&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&hide_border=true&hide_title=true" />
-</a>
-
+[![JOKING's github stats](https://github-readme-stats.vercel.app/api?username=jokinglove&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&hide_border=true&hide_title=true)](#)
 <!-- <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jokinglove&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&hide_border=true" />
-</a>
-<a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jokinglove&show_icons=true&count_private=true&include_all_commits=true&show_owner=true&hide_border=true&hide_title=true" />
 </a> -->
 
 ### Recently I'm coding in...
