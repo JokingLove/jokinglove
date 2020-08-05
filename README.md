@@ -27,7 +27,7 @@ Java | Web Development | Spring Cloud | JavaScript | Python | MySQL | MongoDB | 
 A Java developer , I'm hello worlding...
 
 ## Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true&hide_title=true&hide=html)](#) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true&hide_title=true&count_private=true&hide=html)](#) 
 <!-- <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true&hide_title=true" />
 </a> -->
