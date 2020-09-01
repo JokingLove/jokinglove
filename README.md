@@ -1,6 +1,7 @@
 <!-- <div align="center"> -->
 # Hey 👋, I'm JOKING <a  target="_blank" href="https://jokinglove.com/"> <img alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" /> </a>
  
+## ![](https://komarev.com/ghpvc/?username=jokinglove&color=blueviolet)
 
 <a target="_blank" href="https://github.com/jokinglove">
     <img align="left" alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/github4.svg" />
@@ -23,7 +24,7 @@
 
 Java | Web Development | Spring Cloud | JavaScript | Python | MySQL | MongoDB | Neo4j | Linux | Github 
 
-## About :sunglasses:  ![](https://komarev.com/ghpvc/?username=jokinglove)
+## About :sunglasses:  
 A Java developer , I'm hello worlding...
 
 ## Most Used Languages
