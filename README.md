@@ -51,16 +51,3 @@ A Java developer , I'm hello worlding...
 
 <!-- </div> -->
 
-
-
-![](https://github.com/fenixsoft/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/fenixsoft/github-stats/blob/master/generated/languages.svg)
-
-
-![](https://raw.githubusercontent.com/jokinglove/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
-
-
-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
