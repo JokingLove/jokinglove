@@ -30,12 +30,6 @@ Java | Web Development | Spring Cloud | JavaScript | Python | MySQL | MongoDB | 
 ## About :sunglasses:  
 A Java developer , I'm hello worlding...
 
-## Most Used Languages
-[![Top Langs](https://stats.jokinglove.com/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true&hide_title=true&count_private=true&hide=html)](#) 
-<!-- <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokinglove&layout=default&show_icons=true&hide_border=true&hide_title=true" />
-</a> -->
-
 <!-- &theme=shades-of-purple   &theme=cobalt-->
 <a href="https://jokinglove.com">
 <br/>
