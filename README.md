@@ -3,7 +3,7 @@
   Hey 👋, I'm JOKING  <a  target="_blank" href="https://jokinglove.com/"> <img alt="JOKING's Github" width="22px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" /> </a>
 </p>
 <p align="center">
- <img alt="" width="22px" src="https://komarev.com/ghpvc/?username=jokinglove&color=blueviolet" />
+ <img alt="" width="100px" height="30px" src="https://komarev.com/ghpvc/?username=jokinglove&color=blueviolet" />
 </p>
 <p align="center">
   <a target="_blank" href="https://github.com/jokinglove">
@@ -24,15 +24,11 @@
 
 </p>
 
-<br/>
-<br/>
-
 <p align="center">
 Java | Web Development | Spring Cloud | JavaScript | Python | MySQL | MongoDB | Neo4j | Linux | Github 
 </p>
 
 <p align="center">
-## About :sunglasses:  
 A Java developer , I'm hello worlding...
 </p>
 
