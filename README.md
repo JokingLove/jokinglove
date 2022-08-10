@@ -3,7 +3,7 @@
   Hey 👋, I'm JOKING  <a  target="_blank" href="https://jokinglove.com/"> <img alt="JOKING's Github" width="18px" src="https://cdn.jsdelivr.net/gh/jokinglove/cdn-assets@master/icons/blog.svg" /> </a>
 </p>
 <p align="center">
- <img alt="" width="100px" height="21px" src="https://komarev.com/ghpvc/?username=jokinglove&color=blueviolet" />
+ <img alt="" width="124px" height="20px" src="https://komarev.com/ghpvc/?username=jokinglove&color=blueviolet" />
 </p>
 <p align="center">
   <a target="_blank" href="https://github.com/jokinglove">
