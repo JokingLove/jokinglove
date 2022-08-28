@@ -29,7 +29,7 @@ Java | Web Development | Spring Cloud | JavaScript | Python | MySQL | MongoDB | 
 </p>
 
 <p align="center">
-A backend developer , I'm hello worlding...
+A software engineer , I'm hello worlding...
 </p>
 
 <!-- &theme=shades-of-purple   &theme=cobalt-->
